@@ -13,6 +13,7 @@ dsdjshdjsdjhd
 sdhsdhsdhsd
 sndsdjsdjsdjs
 bdjsdjsjsdjd
+<<<<<<< HEAD
 sdfdsfds
 sdfsdfdsf
 sdfdsfdsf
@@ -23,3 +24,15 @@ fdssdfsd
 
 
 
+=======
+qqq
+qwww
+eee
+r
+rr
+r
+r
+rr
+rr
+rrrrrrrrrr
+>>>>>>> 761d1f64f1aa777aaadbdcf0c224361ad9827f77
